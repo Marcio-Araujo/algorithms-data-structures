@@ -1,4 +1,4 @@
-package Controller;
+package arraysManipulation.controller;
 
 import java.util.ArrayList;
 import java.util.List;

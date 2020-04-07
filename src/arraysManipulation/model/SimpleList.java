@@ -1,4 +1,4 @@
-package model;
+package arraysManipulation.model;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package model;
+package arraysManipulation.model;
 
 public class BaseEntity {
 

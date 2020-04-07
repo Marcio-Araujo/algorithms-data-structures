@@ -1,8 +1,8 @@
-package Controller;
+package arraysManipulation.controller;
 
-import model.BaseEntity;
-import model.SimpleList;
-import services.sort.QueueManager;
+import arraysManipulation.model.BaseEntity;
+import arraysManipulation.model.SimpleList;
+import arraysManipulation.service.QueueManager;
 
 import java.util.ArrayList;
 import java.util.Scanner;

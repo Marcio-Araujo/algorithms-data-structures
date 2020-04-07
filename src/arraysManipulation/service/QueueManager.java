@@ -1,9 +1,9 @@
-package services.sort;
+package arraysManipulation.service;
 
-import model.BaseEntity;
-import model.SimpleList;
-import services.sort.impl.ArrayListManipulationImpl;
-import services.sort.impl.ListManipulationImpl;
+import arraysManipulation.model.BaseEntity;
+import arraysManipulation.model.SimpleList;
+import arraysManipulation.service.impl.ArrayListManipulationImpl;
+import arraysManipulation.service.impl.ListManipulationImpl;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,8 +1,8 @@
-package services.sort.impl;
+package arraysManipulation.service.impl;
 
-import model.BaseEntity;
-import model.SimpleList;
-import services.sort.ListManipulation;
+import arraysManipulation.model.BaseEntity;
+import arraysManipulation.model.SimpleList;
+import arraysManipulation.service.ListManipulation;
 
 public class ArrayListManipulationImpl implements ListManipulation {
 
